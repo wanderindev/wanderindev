@@ -16,7 +16,7 @@ These qualities make an excellent match for web development, which requires mast
 
 -   :computer: My laptop runs on **Windows 10 Pro**
 -   :man_technologist: For my terminal, I user **Ubuntu 18.04** running on **WSL**.
--   :hammer_and_wrench: For IDEs, I use **PyCharm**, **WebStorm**, and **DataGrip** for back-end, front-end, and database work, respectively. I always use **Postman** when working on RESTful APIs.
+-   :hammer_and_wrench: For IDEs, I use **PyCharm**, **WebStorm**, and **DataGrip** for back-end, front-end, and database work, respectively. I also use **Postman** when working on RESTful APIs.
 -   :whale: For containerization, I use **Docker**.
 -   :elephant: For databases, I mainly use **PostgreSQL**.
 -   :ocean: Currently, I deploy all my projects to a **Kubernetes** cluster running on **DigitalOcean**.
@@ -42,3 +42,9 @@ These qualities make an excellent match for web development, which requires mast
 
 -  :date: I'm reading the **Kendo UI** [documentation](https://docs.telerik.com/kendo-ui/introduction). I will be using its components for the multitenant online store front-end.
 -  :loud_sound: I'm also going over a **React** [course](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) on Udemy.
+
+## Let's connect!
+
+-   :handshake: To learn more about my journey, visit my LinkedIn [profile](https://www.linkedin.com/in/javierfeliu/), and let's connect. I'm always happy to chat with fellow developers.
+-   :baby_chick: You may also get in touch via Twitter at [@JavierFeliuA](https://twitter.com/JavierFeliuA).
+-   :mailbox: Visit my blog's [contact](https://wanderin.dev/contact/) page for other ways to  reach me.
