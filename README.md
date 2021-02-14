@@ -41,7 +41,7 @@ These qualities make an excellent match for web development, which requires mast
 
 ## What am I currently learning?
 
--  :school: I just started [Udacity's Intermediate JavaScript nanodegree](https://www.udacity.com/course/intermediate-javascript-nanodegree--nd032).
+-  :school: I just finished [Udacity's Intermediate JavaScript nanodegree](https://www.udacity.com/course/intermediate-javascript-nanodegree--nd032).
 
 ## Some helpful resources
 
