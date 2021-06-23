@@ -30,8 +30,8 @@ These qualities make an excellent match for web development, which requires mast
 ## What am I working on?
 
 -   :muscle: Currently, I'm working on Atelier M's online store.  Check it out [here](https://atelierm.store).
--   :robot: I'm also tweaking [my crypto trading bots](https://github.com/wanderindev/crypto-bot).
-    :snake: And contributing to [Python Panama's RESTful API](https://github.com/pythonpanama/python-panama-backend).
+-   :robot: I'm also tweaking [my crypto trading bots](https://github.com/wanderindev/crypto-bot). 
+-   :snake: And contributing to [Python Panama's RESTful API](https://github.com/pythonpanama/python-panama-backend).
 
 ## What am I blogging about?
 
