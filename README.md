@@ -30,6 +30,8 @@ These qualities make an excellent match for web development, which requires mast
 ## What am I working on?
 
 -   :muscle: Currently, I'm working on Atelier M's online store.  Check it out [here](https://atelierm.store).
+-   :robot: I'm also tweaking [my crypto trading bots](https://github.com/wanderindev/crypto-bot).
+    :snake: And contributing to [Python Panama's RESTful API](https://github.com/pythonpanama/python-panama-backend).
 
 ## What am I blogging about?
 
@@ -41,8 +43,8 @@ These qualities make an excellent match for web development, which requires mast
 
 ## What am I currently learning?
 
--  :school: I just finished [Udacity's Intermediate JavaScript nanodegree](https://www.udacity.com/course/intermediate-javascript-nanodegree--nd032).
-
+-  :school: I just started  [Udacity's Intermediate Python nanodegree](https://www.udacity.com/course/intermediate-python-nanodegree--nd303).
+        
 ## Some helpful resources
 
 -  🐕 [Flask Web Development](https://www.amazon.com/Flask-Web-Development-Developing-Applications-dp-1491991739/dp/1491991739/ref=mt_other?_encoding=UTF8&me=&qid=1596075644) is a great hands-on book by [Miguel Grinberg](https://www.linkedin.com/in/miguelgrinberg/) on building a web application using Flask.  It covers everything, from creating a virtual environment to application deployment.  I use Flask a lot, and I often refer to this book.  Miguel's [blog](https://blog.miguelgrinberg.com/) is also a great source of information.
