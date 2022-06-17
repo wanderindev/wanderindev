@@ -14,7 +14,7 @@ These qualities make an excellent match for web development, which requires mast
 
 ## What's my development setup?
 
--   :computer: My laptop runs on **Windows 10 Pro**
+-   :computer: My laptop runs on **Windows 11 Pro**
 -   :man_technologist: For my terminal, I user **Ubuntu 18.04** running on **WSL**.
 -   :hammer_and_wrench: For IDEs, I use **PyCharm**, **WebStorm**, and **DataGrip** for back-end, front-end, and database work, respectively. I also use **Postman** when working on RESTful APIs.
 -   :whale: For containerization, I use **Docker**.
@@ -29,13 +29,11 @@ These qualities make an excellent match for web development, which requires mast
 
 ## What am I working on?
 
--   :muscle: Currently, I'm working on Atelier M's online store.  Check it out [here](https://atelierm.store).
--   :robot: I'm also tweaking [my crypto trading bots](https://github.com/wanderindev/crypto-bot). 
--   :snake: And contributing to [Python Panama's RESTful API](https://github.com/pythonpanama/python-panama-backend).
+- :muscle: Currently, I'm working on Atelier M's online store.  Check it out [here](https://atelierm.store).
 
 ## What am I blogging about?
 
--   :bulb: I'm working on a series of articles exploring the topic of **relational database design for full-stack developers**.
+-   :bulb: As I study for a Python technical interview, I'm blogging my notes on the different subjects as a quick reference.  You're welcome to use them.
 -   :dart: Visit my blog, **Wander In Dev**, [here](https://wanderin.dev).
 <p align="center">
 <img src="https://github.com/wanderindev/wanderindev/blob/master/assets/logo-primary.png" />
@@ -43,15 +41,15 @@ These qualities make an excellent match for web development, which requires mast
 
 ## What am I currently learning?
 
--  :school: I just started  [Udacity's Intermediate Python nanodegree](https://www.udacity.com/course/intermediate-python-nanodegree--nd303).
+-  :school: I'm reviewing the topics of data structures, recursion, and algorithm, as a preparation for a technical interview.
         
 ## Some helpful resources
 
--  🐕 [Flask Web Development](https://www.amazon.com/Flask-Web-Development-Developing-Applications-dp-1491991739/dp/1491991739/ref=mt_other?_encoding=UTF8&me=&qid=1596075644) is a great hands-on book by [Miguel Grinberg](https://www.linkedin.com/in/miguelgrinberg/) on building a web application using Flask.  It covers everything, from creating a virtual environment to application deployment.  I use Flask a lot, and I often refer to this book.  Miguel's [blog](https://blog.miguelgrinberg.com/) is also a great source of information.
--  🐍 [Effective Python](https://www.amazon.com/Effective-Python-Specific-Software-Development/dp/0134853989/ref=sr_1_3?dchild=1&keywords=effective+python&qid=1596076710&s=books&sr=1-3) by [Brett Slatkin](https://www.linkedin.com/in/bslatkin/) is a great book full of advice that will help anyone write better Python code.  The book contains a bunch of self-contained lessons that shine a light into the language strengths and expressiveness.  It is truly excellent!
--  🦈 [Essential SQLAlchemy](https://www.amazon.com/s?k=essential+sqlalchemy&i=stripbooks&crid=2XVVALUOWYFOM&sprefix=essential+sql%2Cstripbooks%2C243&ref=nb_sb_ss_i_1_13) by [Jason Myers](https://www.linkedin.com/in/jasonamyers/) and [Rick Copeland](https://www.linkedin.com/in/rickcopeland/) covers everything you need to know about this useful library in less than 200 pages, including the SQLALchemy core, the SQLAlchemy ORM, Alembic, and a short cookbook.
--  🐘 [Six-Step Relational Database Design](https://www.amazon.com/Six-Step-Relational-Database-Design-development/dp/1481942727/ref=sr_1_1?dchild=1&keywords=six+step+relational+database+design&qid=1587265197&sr=8-1) by [Fidel A. Captain](https://www.fidelcaptain.com/) is an excellent practical book.  It covers the entire database design process from studying the customer's requirements to design implementation.  To illustrate each design step, the author uses three case studies of different degrees of complexity.
-
+- 🐕 [Flask Web Development](https://www.amazon.com/Flask-Web-Development-Developing-Applications-dp-1491991739/dp/1491991739/ref=mt_other?_encoding=UTF8&me=&qid=1596075644) is a great hands-on book by [Miguel Grinberg](https://www.linkedin.com/in/miguelgrinberg/) on building a web application using Flask.  It covers everything, from creating a virtual environment to application deployment.  I use Flask a lot, and I often refer to this book.  Miguel's [blog](https://blog.miguelgrinberg.com/) is also a great source of information.
+- 🐍 [Effective Python](https://www.amazon.com/Effective-Python-Specific-Software-Development/dp/0134853989/ref=sr_1_3?dchild=1&keywords=effective+python&qid=1596076710&s=books&sr=1-3) by [Brett Slatkin](https://www.linkedin.com/in/bslatkin/) is a great book full of advice that will help anyone write better Python code.  The book contains a bunch of self-contained lessons that shine a light into the language strengths and expressiveness.  It is truly excellent!
+- 🦈 [Essential SQLAlchemy](https://www.amazon.com/s?k=essential+sqlalchemy&i=stripbooks&crid=2XVVALUOWYFOM&sprefix=essential+sql%2Cstripbooks%2C243&ref=nb_sb_ss_i_1_13) by [Jason Myers](https://www.linkedin.com/in/jasonamyers/) and [Rick Copeland](https://www.linkedin.com/in/rickcopeland/) covers everything you need to know about this useful library in less than 200 pages, including the SQLALchemy core, the SQLAlchemy ORM, Alembic, and a short cookbook.
+- 🐘 [Six-Step Relational Database Design](https://www.amazon.com/Six-Step-Relational-Database-Design-development/dp/1481942727/ref=sr_1_1?dchild=1&keywords=six+step+relational+database+design&qid=1587265197&sr=8-1) by [Fidel A. Captain](https://www.fidelcaptain.com/) is an excellent practical book.  It covers the entire database design process from studying the customer's requirements to design implementation.  To illustrate each design step, the author uses three case studies of different degrees of complexity.
+- :alarm_clock: [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_1?crid=2FD1OUTDC54F4&keywords=cracking+the+coding+interview&qid=1655494723&sprefix=crac%2Caps%2C919&sr=8-1)
 ## Let's connect!
 
 -   :handshake: To learn more about my journey, visit my LinkedIn [profile](https://www.linkedin.com/in/javierfeliu/), and let's connect. I'm always happy to chat with fellow developers.
