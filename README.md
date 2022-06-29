@@ -30,7 +30,7 @@ These qualities make an excellent match for web development, which requires mast
 ## What am I working on?
 
 - :muscle: Currently, I'm working on Atelier M's online store.  Check it out [here](https://atelierm.store).
-- :hammer: If you want to learn more about some of the projects I've worked on, visit my online [portafolio](https://wanderin.dev/projects).
+- :hammer: If you want to learn more about some of the projects I've worked on, visit my online [portfolio](https://wanderin.dev/projects).
 
 ## What am I blogging about?
 
