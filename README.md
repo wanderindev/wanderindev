@@ -6,53 +6,56 @@
 <p align="center">&nbsp;</p>
 
 
-# Hello:wave:, and welcome to my GitHub profile!
-
+# Hello 👋, and welcome to my GitHub profile!
 
 Hi! I'm **Javier Feliu**, a **full-stack web developer** from Panama City, Panama.  I consider myself a *curious* and *self-directed* individual.  
 These qualities make an excellent match for web development, which requires mastering the basics while staying on top of constantly changing trends.
 
+I currently work in a **fully distributed development team, maintaining a large-scale web application**.  I love my job because:
+
+- 💡 I get to work closely with a group of highly talented developers, and thus, I'm constantly learning from them.
+- 🤝 My contributions are valued by the rest of the team and the team lead, giving me a sense of self-worth.
+- 🧐 I get to work every day on complex tasks, helping hone my problem-solving skills.
+
+Below, I share some more details about myself.
+
 ## What's my development setup?
 
--   :computer: My laptop runs on **Windows 11 Pro**
--   :man_technologist: For my terminal, I user **Ubuntu 18.04** running on **WSL**.
--   :hammer_and_wrench: For IDEs, I use **PyCharm**, **WebStorm**, and **DataGrip** for back-end, front-end, and database work, respectively. I also use **Postman** when working on RESTful APIs.
--   :whale: For containerization, I use **Docker**.
--   :elephant: For databases, I mainly use **PostgreSQL**.
--   :ocean: Currently, I deploy all my projects to a **Kubernetes** cluster running on **DigitalOcean**.
+- 💻 My laptop runs on **Ubuntu 22.04**
+- 🛠️ Some of the tools I use are **PyCharm**, **DBeaver**, and **Postman** for IDE, database browsing, and API development.
+- 💬 For team communications, we mostly use Slack and Google Meet.
+- 🔀 For version control, I use **Git** with **Git Flow**.
+- 📦 For package management, I use **pip** and **npm**.
+- 🐳 For containerization, I use **Docker** and **Docker Compose**.
+- 🗃️ For databases, I mainly use **PostgreSQL**.
+- 💻 For back-end development, I use **Python** with **Flask**, **SQLAlchemy**, **Alembic**, **Flask Admin**, and **UnitTest**.
+- 🖥️ For front-end development, I use **React**, **Jest**, and **Puppeteer**.
+- 🚀 For ci/cd we use Jenkins and the jobs are deployed to **DigitalOcean**.
+- ☁️ For production deployments we use **AWS**.
 
 ## What's my typical coding day?
 
--   :snake: If working on a back-end, I would most likely be coding a RESTful API to perform CRUD on a PostgreSQL database. I would use **Python** with **Flask**, **SQLAlchemy**, **Marshmallow**, **JWT-Extended**, and **UnitTest**.
--   :cup_with_straw: If working on a front-end, I would most likely use **jQuery** for DOM manipulation, **Nunjucks** for templating, **Bulma** for styling, and **Gulp** for workflow automation.
--   :shopping_cart: Lately, I've been doing some Shopify development.  I like it!  It's a joy to work with Liquid.  You can get fantastic results with moderate coding effort.
-
-## What am I working on?
-
-- :muscle: Currently, I'm working on Atelier M's online store.  Check it out [here](https://atelierm.store).
-- :hammer: If you want to learn more about some of the projects I've worked on, visit my online [portfolio](https://wanderin.dev/projects).
-
-## What am I blogging about?
-
--   :bulb: As I study for a Python technical interview, I'm blogging my notes on the different subjects as a quick reference.  You're welcome to use them.
--   :dart: Visit my blog, **Wander In Dev**, [here](https://wanderin.dev).
-<p align="center">
-<img src="https://github.com/wanderindev/wanderindev/blob/master/assets/logo-primary.png" />
-</p>
-
-## What am I currently learning?
-
--  :school: I'm reviewing the topics of data structures, recursion, and algorithm, as a preparation for a technical interview.
+- ☕ I get in pretty early, around 5:00am.  I like to have a few hours of overlap with my team mates from Asia.  I find that real time communication with the rest of the team is invaluable.
+- 🚨 If I'm in Sentry duty, I'd have the Sentry call with the other developer on Sentry duty at these time.
+- 📨 After that, I go over the Slack and email messages.
+- 🛠️ Then, I review any PRs that are in place, asking for clarifications or requesting changes, if needed, or approving them.
+- 📝 After that, I pick the top task from the To Do column in our Jira board.
+- 🤔 If the task is complex, for instance a new feature, I'd usually share the approach I'll take with the team, to get validation and feedback, before writing any code.
+- 🏁 Once the task is complete, I go through the process of creating a PR, staging the changes, and addressing any concerns raised during the code review.
+- 🚀 Upon final approval, I deploy the changes to production.
         
 ## Some helpful resources
 
 - 🐕 [Flask Web Development](https://www.amazon.com/Flask-Web-Development-Developing-Applications-dp-1491991739/dp/1491991739/ref=mt_other?_encoding=UTF8&me=&qid=1596075644) is a great hands-on book by [Miguel Grinberg](https://www.linkedin.com/in/miguelgrinberg/) on building a web application using Flask.  It covers everything, from creating a virtual environment to application deployment.  I use Flask a lot, and I often refer to this book.  Miguel's [blog](https://blog.miguelgrinberg.com/) is also a great source of information.
 - 🐍 [Effective Python](https://www.amazon.com/Effective-Python-Specific-Software-Development/dp/0134853989/ref=sr_1_3?dchild=1&keywords=effective+python&qid=1596076710&s=books&sr=1-3) by [Brett Slatkin](https://www.linkedin.com/in/bslatkin/) is a great book full of advice that will help anyone write better Python code.  The book contains a bunch of self-contained lessons that shine a light into the language strengths and expressiveness.  It is truly excellent!
-- 🦈 [Essential SQLAlchemy](https://www.amazon.com/s?k=essential+sqlalchemy&i=stripbooks&crid=2XVVALUOWYFOM&sprefix=essential+sql%2Cstripbooks%2C243&ref=nb_sb_ss_i_1_13) by [Jason Myers](https://www.linkedin.com/in/jasonamyers/) and [Rick Copeland](https://www.linkedin.com/in/rickcopeland/) covers everything you need to know about this useful library in less than 200 pages, including the SQLALchemy core, the SQLAlchemy ORM, Alembic, and a short cookbook.
+- 🦈  [Essential SQLAlchemy](https://www.amazon.com/s?k=essential+sqlalchemy&i=stripbooks&crid=2XVVALUOWYFOM&sprefix=essential+sql%2Cstripbooks%2C243&ref=nb_sb_ss_i_1_13) by [Jason Myers](https://www.linkedin.com/in/jasonamyers/) and [Rick Copeland](https://www.linkedin.com/in/rickcopeland/) covers everything you need to know about this useful library in less than 200 pages, including the SQLALchemy core, the SQLAlchemy ORM, Alembic, and a short cookbook.
 - 🐘 [Six-Step Relational Database Design](https://www.amazon.com/Six-Step-Relational-Database-Design-development/dp/1481942727/ref=sr_1_1?dchild=1&keywords=six+step+relational+database+design&qid=1587265197&sr=8-1) by [Fidel A. Captain](https://www.fidelcaptain.com/) is an excellent practical book.  It covers the entire database design process from studying the customer's requirements to design implementation.  To illustrate each design step, the author uses three case studies of different degrees of complexity.
-- :alarm_clock: [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_1?crid=2FD1OUTDC54F4&keywords=cracking+the+coding+interview&qid=1655494723&sprefix=crac%2Caps%2C919&sr=8-1). This book is pretty dense, but it's an excellent resource for preparing for a technical interview in any language.
+- :zap: [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_1?crid=2FD1OUTDC54F4&keywords=cracking+the+coding+interview&qid=1655494723&sprefix=crac%2Caps%2C919&sr=8-1). This book is pretty dense, but it's an excellent resource for preparing for a technical interview in any language.
+
 ## Let's connect!
 
--   :handshake: To learn more about my journey, visit my LinkedIn [profile](https://www.linkedin.com/in/javierfeliu/), and let's connect. I'm always happy to chat with fellow developers.
--   :baby_chick: You may also get in touch via Twitter at [@JavierFeliuA](https://twitter.com/JavierFeliuA).
--   :mailbox: Visit my blog's [contact](https://wanderin.dev/contact/) page for other ways to  reach me.
+If you'd like to get in touch, you can find me on [LinkedIn](https://www.linkedin.com/in/javierfeliu/) or [my blog](https://wanderin.dev/contact/).  I'm always happy to chat with other developers or people interested in technology. Let's learn and grow together!
+
+Also, feel free to browse my GitHub profile and check out some of the projects I've worked on. While some of them may not completely reflect my current skill set, I believe they provide a glimpse into how I approached development problems earlier in my career. Keep in mind that I am no longer doing freelance or side projects, as my current contract forbids it.
+
+Thank you for taking the time to read through my profile. I look forward to hearing from you!
