@@ -23,7 +23,7 @@ Below, I share some more details about myself.
 
 - 💻 My laptop runs on **Ubuntu 22.04**
 - 🛠️ Some of the tools I use are **PyCharm**, **DBeaver**, and **Postman** for IDE, database browsing, and API development.
-- 💬 For team communications, we mostly use Slack and Google Meet.
+- 💬 For team communications, we mostly use **Slack** and **Google Meet**.
 - 🔀 For version control, I use **Git** with **Git Flow**.
 - 📦 For package management, I use **pip** and **npm**.
 - 🐳 For containerization, I use **Docker** and **Docker Compose**.
@@ -35,7 +35,7 @@ Below, I share some more details about myself.
 
 ## What's my typical coding day?
 
-- ☕ I get in pretty early, around 5:00am.  I like to have a few hours of overlap with my team mates from Asia.  I find that real time communication with the rest of the team is invaluable.
+- ☕ I get in pretty early, around 5:00am.  I like to have a few hours of overlap with my team mates from Asia.  I find that real time communication with the rest of the team is invaluable.  I also like starting at this time because it get a chance to put in at least 4 hours of work before our daily standup at 9:20am.
 - 🚨 If I'm in Sentry duty, I'd have the Sentry call with the other developer on Sentry duty at these time.
 - 📨 After that, I go over the Slack and email messages.
 - 🛠️ Then, I review any PRs that are in place, asking for clarifications or requesting changes, if needed, or approving them.
