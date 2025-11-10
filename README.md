@@ -8,25 +8,32 @@
 
 # Hello 👋, and welcome to my GitHub profile!
 
-**I'm Javier Feliu**, a **Senior Full-Stack Developer** based in Panama City, Panama. Over the years, I’ve built robust, large-scale web applications using **Python (Flask)** on the backend and **React** on the frontend. My focus is on delivering performant, maintainable, and scalable solutions.
+**I'm Javier Feliu**, an **Engineering Manager and Senior Full-Stack Developer** based in Panama City, Panama. I lead an 8-person engineering team at a private ad tech company, splitting my time between hands-on development and team leadership. I focus on building high-performance, scalable systems and helping teams deliver better software.
 
 ## Areas of Expertise
 
-- **Web Applications**  
-  Building and maintaining large-scale projects with Python/Flask, React, PostgreSQL, and containerization (Docker).
+- **Distributed Systems & Performance**  
+  Designed and built ultra-low-latency APIs with sub-50ms response times across multiple AWS regions, leveraging intelligent caching and cross-region deployment strategies for fraud detection and ad tech applications.
 
-- **Automation & Airflow**  
-  Developing workflows to streamline and orchestrate business processes, reducing operational overhead and cost.
+- **Full-Stack Development**  
+  Built and maintained large-scale web applications using Python (Flask, Django, Airflow), JavaScript (React, Express, Chrome Extensions), PostgreSQL, Redis, and modern cloud infrastructure (AWS, DigitalOcean, CloudFront).
 
-- **Chrome Extensions**  
-  Creating internal tools that automate tasks on third-party systems lacking APIs, boosting efficiency for internal teams.
+- **Process Automation & Orchestration**  
+  Developed complex Airflow workflows that automate business processes, customer onboarding, and infrastructure updates. Built Chrome extensions with distributed task execution for automating operations across third-party platforms.
 
-- **Infrastructure Maintenance**  
-  Sole maintainer of our self-hosted **Sentry** setup and our **Jenkins** CI/CD pipelines, ensuring smooth deployments and reliable monitoring.
+- **Edge Computing & CDN**  
+  Implemented CloudFront edge functions and KeyValueStore solutions for real-time request filtering and access control at scale, maintaining sub-millisecond performance across thousands of domains.
 
-- **AI-Driven Web Applications**  
-  Recently leveraging the **Anthropic API** to develop intelligent, next-generation applications.
+- **Infrastructure & DevOps**  
+  Maintained self-hosted Sentry for production monitoring and led major Jenkins CI/CD infrastructure overhauls. Experienced with Docker, declarative pipelines, and optimizing build processes.
 
-I love tackling complex challenges, continually learning new technologies, and sharing knowledge with fellow developers. Thanks for stopping by—feel free to browse my repositories for a glimpse of my work!
+- **System Architecture & Documentation**  
+  Designed complex features and integrations (Salesforce, GAM, Anthropic API). Created comprehensive technical documentation, including process diagrams and system architecture, to break down knowledge silos.
 
-**Let’s connect on [LinkedIn](https://www.linkedin.com/in/javierfeliu/).**
+- **AI-Driven Applications**  
+  Built intelligent applications leveraging the Anthropic API for next-generation capabilities.
+
+I enjoy solving complex technical challenges, designing scalable systems, and sharing knowledge with fellow developers. Thanks for stopping by—browse my repositories to see my work!
+
+**Let's connect on [LinkedIn](https://www.linkedin.com/in/javierfeliu/).**
+
