@@ -8,7 +8,7 @@
 
 # Hello 👋, and welcome to my GitHub profile!
 
-**I'm Javier Feliu**, an **Engineering Manager and Senior Full-Stack Developer** based in Panama City, Panama. I lead an 8-person engineering team at a private ad tech company, splitting my time between hands-on development and team leadership. I focus on building high-performance, scalable systems and helping teams deliver better software.
+**I'm Javier Feliu**, an **Engineering Manager and Senior Full-Stack Developer** based in Panama City, Panama. I lead a 10-person engineering team at a private ad tech company, splitting my time between hands-on development and team leadership. I focus on building high-performance, scalable systems and helping teams deliver better software.
 
 ## Areas of Expertise
 
@@ -36,4 +36,5 @@
 I enjoy solving complex technical challenges, designing scalable systems, and sharing knowledge with fellow developers. Thanks for stopping by—browse my repositories to see my work!
 
 **Let's connect on [LinkedIn](https://www.linkedin.com/in/javierfeliu/).**
+
 
